@@ -1,0 +1,183 @@
+{
+  "Header": {
+    "title": "Добро пожаловать в NEMTRI",
+    "paragraph": "Научно-технологический центр 'Аддитивные технологии и материалы в интеллектуальных биомедицинских системах' – ваш путь к инновационным разработкам в области биомедицины и аддитивного производства"
+  },
+  "About": {
+    "paragraph": "Мы – передовой научно-технологический центр, созданный совместно с Санкт-Петербургским Политехническим университетом Петра Великого (СПбПУ), базирующийся в Ханчжоу. Основное направление нашей деятельности – разработка интеллектуальных биомедицинских систем, таких как бионические протезы, экзоскелеты и индивидуальные имплантаты из титана. Мы предлагаем уникальные возможности для студентов и ученых из России, включая стажировки, практики и трудоустройство. Наши проекты активно поддерживаются ведущими исследовательскими институтами и медицинскими центрами.",
+    "Why": [
+      "Инновационные решения для сложных задач",
+      "Высокие стандарты качества и надежности",
+      "Наша команда обладает глубокими знаниями и опытом в области передовых технологий, что позволяет разрабатывать уникальные и эффективные решения",
+      "Мы гарантируем индивидуальный подход и полное соответствие требованиям наших клиентов, обеспечивая непрерывную поддержку и развитие проектов"
+    ],
+    "Why2": [
+      "Комплексный подход к разработке решений",
+      "Ответственность и прозрачность на всех этапах работы",
+      "Мы придерживаемся принципов открытости и тесного взаимодействия с клиентами, чтобы создавать продукты, соответствующие их ожиданиям",
+      "Наши решения основаны на передовых исследованиях и учитывают актуальные потребности рынка, позволяя достигать устойчивого конкурентного преимущества"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Биомедицинские системы",
+      "text": "Разработка и производство высокотехнологичных медицинских решений, включая биомедицинские датчики и системы мониторинга состояния пациента"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Медицинские ассистенты",
+      "text": "Создание интеллектуальных медицинских ассистентов, которые помогают медицинскому персоналу в диагностике и мониторинге состояния здоровья пациентов"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Компоненты протезов",
+      "text": "Проектирование и производство инновационных компонентов протезов, таких как культеприемники, обеспечивающих комфорт и функциональность"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Аддитивное производство",
+      "text": "Мы предлагаем передовые технологии 3D-печати для создания сложных и функциональных деталей с высокой точностью, применяя широкий спектр материалов"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Моделирование и прототипирование",
+      "text": "Комплексные услуги по 3D-моделированию и быстрому прототипированию, позволяющие сократить цикл разработки и снизить издержки"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Консалтинг и техническая поддержка",
+      "text": "Мы предоставляем экспертные консультации и техническую поддержку на всех этапах разработки и внедрения инновационных решений"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Чжэцзянский Китайско-российский научно-исследовательский институт инженерных технологий, Ханчжоу, Чжэцзян, КНР ",
+    "phone": "+1 123 456 1234",
+    "email": "nemtri@yandex.com",
+    "telegram": "tg.com",
+    "NEMTRI": "nemtri.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Инновационные решения",
+      "text": "Мы разрабатываем передовые технологии, объединяя научные исследования и инженерные решения для достижения выдающихся результатов. Наши решения помогают клиентам справляться с самыми сложными техническими задачами."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Передовые технологии",
+      "text": "Мы используем современные методы моделирования и анализа для проектирования сложных систем, обеспечивая высокую точность и надежность. Наши разработки ориентированы на долгосрочную перспективу и устойчивое развитие"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Командная работа",
+      "text": "Наши специалисты работают в тесном сотрудничестве с заказчиками, предлагая индивидуальные решения, адаптированные под конкретные потребности. Мы ценим обмен знаниями и коллективное творчество, что позволяет нам достигать лучших результатов."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Индивидуальный подход",
+      "text": "Каждый проект мы рассматриваем как уникальную задачу, требующую персонализированного подхода. Мы внедряем нестандартные решения, используя передовые научные достижения и инновационные технологии"
+    }
+  ]
+}
