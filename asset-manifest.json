@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/etri/static/css/main.ae42ac5f.css",
+    "main.js": "/etri/static/js/main.3c5cb942.js",
+    "index.html": "/etri/index.html",
+    "main.ae42ac5f.css.map": "/etri/static/css/main.ae42ac5f.css.map",
+    "main.3c5cb942.js.map": "/etri/static/js/main.3c5cb942.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.3c5cb942.js"
+  ]
+}
