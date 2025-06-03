@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Добро пожаловать в NEMTRI",
+    "title": "Добро пожаловать в ETRI",
     "paragraph": "Научно-технологический центр 'Аддитивные технологии и материалы в интеллектуальных биомедицинских системах' – ваш путь к инновационным разработкам в области биомедицины и аддитивного производства"
   },
   "About": {
@@ -19,80 +19,81 @@
     ]
   },
   "Gallery": [
+ 
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Знакомство с разработками",
+      "largeImage": "img/portfolio/NTC-03.jpg",
+      "smallImage": "img/portfolio/NTC-03small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Прототип бионической кисти",
+      "largeImage": "img/portfolio/SLAhand01small.jpg",
+      "smallImage": "img/portfolio/SLAhand01small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Обучение работе с оборудованием",
+      "largeImage": "img/portfolio/HaxagonScan_engineer.jpg",
+      "smallImage": "img/portfolio/HaxagonScan_engineer.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Протез стопы",
+      "largeImage": "img/portfolio/foot-sla_v1.jpg",
+      "smallImage": "img/portfolio/footSLA_01small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Партнерство",
+      "largeImage": "img/portfolio/Rudskoi-Wang_NTCopening.jpg",
+      "smallImage": "img/portfolio/Rudskoi-Wang_NTCopening-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Разработка культеприемных гильз на заказ",
+      "largeImage": "img/portfolio/kultproto01small.jpg",
+      "smallImage": "img/portfolio/kultproto01small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Индивидуальный подход",
+      "largeImage": "img/portfolio/CultScan.jpg",
+      "smallImage": "img/portfolio/CultScan.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Печать металлическими порошками",
+      "largeImage": "img/portfolio/SLMprinter.jpg",
+      "smallImage": "img/portfolio/SLMprinter.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Наша команда",
+      "largeImage": "img/portfolio/Team-Rudskoi_NTCopening.jpg",
+      "smallImage": "img/portfolio/Team-Rudskoi_NTCopening-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-heart",
       "name": "Биомедицинские системы",
       "text": "Разработка и производство высокотехнологичных медицинских решений, включая биомедицинские датчики и системы мониторинга состояния пациента"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-ambulance",
       "name": "Медицинские ассистенты",
       "text": "Создание интеллектуальных медицинских ассистентов, которые помогают медицинскому персоналу в диагностике и мониторинге состояния здоровья пациентов"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-chain",
       "name": "Компоненты протезов",
       "text": "Проектирование и производство инновационных компонентов протезов, таких как культеприемники, обеспечивающих комфорт и функциональность"
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-wrench",
       "name": "Аддитивное производство",
       "text": "Мы предлагаем передовые технологии 3D-печати для создания сложных и функциональных деталей с высокой точностью, применяя широкий спектр материалов"
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-space-shuttle",
       "name": "Моделирование и прототипирование",
       "text": "Комплексные услуги по 3D-моделированию и быстрому прототипированию, позволяющие сократить цикл разработки и снизить издержки"
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-globe",
       "name": "Консалтинг и техническая поддержка",
       "text": "Мы предоставляем экспертные консультации и техническую поддержку на всех этапах разработки и внедрения инновационных решений"
     }
@@ -131,29 +132,74 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/ARudskoi.jpg",
+      "name": "А.И.Рудской",
+      "job": "Ректор СПбПУ"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/APopovich.jpg",
+      "name": "A.A.Попович",
+      "job": "Директор ИММиТ"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/Wang.jpg",
+      "name": "Ван Циншен",
+      "job": "Основатель, Генеральный директор"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/Pasha.jpg",
+      "name": "Новиков Павел",
+      "job": "Директор российского департамента"
+    },
+    {
+      "img": "img/team/Leo.jpg",
+      "name": "Оконов Леонид",
+      "job": "Директор по международному развитию"
+    },
+    {
+      "img": "img/team/Mikh.jpg",
+      "name": "Линчевский Михаил",
+      "job": "Руководитель отдела Информационных Технологий"
+    },
+    {
+      "img": "img/team/Ksenia.jpg",
+      "name": "Демина Ксения",
+      "job": "Инженер-Конструктор"
+    },
+    {
+      "img": "img/team/Danil.jpg",
+      "name": "Ахмеров Данил",
+      "job": "Инженер-Разработчик"
+    },
+    {
+      "img": "img/team/Aleksei.jpg",
+      "name": "Барабаш Алексей",
+      "job": "Инженер-Конструктор"
+    },
+    {
+      "img": "img/team/Ivan.jpg",
+      "name": "Гиль Иван",
+      "job": "Инженер-Конструктор"
+    },
+    {
+      "img": "img/team/Maksim.jpg",
+      "name": "Дикун Максим",
+      "job": "Инженер-Конструктор"
+    },
+    {
+      "img": "img/team/Vladimir.jpg",
+      "name": "Дяченко Владимир",
+      "job": "Инженер-Конструктор"
+    },
+    {
+      "img": "img/team/Petr.jpg",
+      "name": "Барулин Петр",
+      "job": "Инженер-Конструктор"
     }
   ],
   "Contact": {
-    "address": "Чжэцзянский Китайско-российский научно-исследовательский институт инженерных технологий, Ханчжоу, Чжэцзян, КНР ",
-    "phone": "+1 123 456 1234",
+    "address": "Room 501, Building 8, Cangxing Street No.1390, Cangqian Street, Yuhang District, Hangzhou City, Zhejiang Province, China",
+    "phone": "+86 135 8790 2970, +7 951 028 42 22",
     "email": "nemtri@yandex.com",
     "telegram": "tg.com",
     "NEMTRI": "nemtri.com"

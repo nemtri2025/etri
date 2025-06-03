@@ -39,7 +39,8 @@ export const Contact = (props) => {
     <div>
       <div id="contact">
         <div className="container">
-          {/* <div className="col-md-8">
+          <div className="row">
+            {/* <div className="col-md-8">
             <div className="row">
               <div className="section-title">
                 <h2>Get In Touch</h2>
@@ -97,7 +98,7 @@ export const Contact = (props) => {
                 </button>
               </form>
             </div>
-          </div> */}
+            </div> */}
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
               <h3>Контакты</h3>
@@ -125,7 +126,11 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
-          <div className="col-md-12">
+          <div className="col-md-6">
+            {/* Новый блок с изображением */}
+            <img src=".\img\contacts\linktotg.jpg" alt="Your Image" className="img-fluid" />
+          </div>
+          {/* <div className="col-md-12">
             <div className="row">
               <div className="social">
                 <ul>
@@ -147,13 +152,14 @@ export const Contact = (props) => {
                 </ul>
               </div>
             </div>
+          </div> */}
           </div>
         </div>
       </div>
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy;Issaaf Kattan React Page. Design by Nemrti and {" "}
+            &copy;ETRI RUS. Design by Nemrti and {" "}
             <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a>

@@ -447,7 +447,7 @@ header .intro-text {
   margin: 5px 0;
 }
 #team .team-img {
-  width: 240px;
+  width: 140px;
 }
 #team .thumbnail {
   background: transparent;
@@ -456,12 +456,28 @@ header .intro-text {
 #team .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
+  height: 120;
 }
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
   background: linear-gradient(to right, #229813 0%, #99fe7d 100%);
   color: rgba(255, 255, 255, 0.75);
+  display: flex;
+  align-items: flex-start;
+}
+
+#contact .contact-info {
+  flex: 1;
+}
+
+#contact .col-md-6 {
+  display: flex;
+  margin-top: 90;
+  margin-left: 180;
+  justify-content: center; /* Центрируем изображение по горизонтали */
+  align-items: center; /* Центрируем изображение по вертикали */
+  flex: 1;
 }
 #contact .section-title {
   margin-bottom: 40px;
@@ -582,6 +598,12 @@ label {
 #contact .social i.fa:hover {
   color: #3ad126;
   background: #fff;
+}
+#contact img {
+  width: 100%;
+  max-width: 250px; /* Устанавливаем максимальную ширину для изображения */
+  height: auto;
+  border-radius: 15px ;
 }
 /* Footer Section*/
 #footer {
